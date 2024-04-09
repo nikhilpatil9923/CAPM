@@ -1,0 +1,41 @@
+NODE_KEY,PARENT_KEY,LANGUAGE,TEXT
+10001,10001,English,Hello world!
+20002,20002,Spanish,Hola mundo!
+30003,1,French,Bonjour le monde!
+40004,0,English,How are you?
+50005,4,German,Wie geht es dir?
+60006,4,Italian,Come stai?
+70007,0,English,Good morning!
+8,7,French,Bonjour!
+9,7,Spanish,Buenos días!
+10,0,German,Guten Tag!
+11,10,English,Good day!
+12,10,French,Bonne journée!
+13,0,Italian,Buon giorno!
+14,13,Spanish,Buenos días!
+15,13,French,Bonjour!
+16,0,English,Goodbye!
+17,16,Spanish,Adiós!
+18,16,French,Au revoir!
+19,0,German,Auf Wiedersehen!
+20,19,English,See you later!
+21,19,French,À bientôt!
+22,0,English,Thank you!
+23,22,Spanish,¡Gracias!
+24,22,French,Merci!
+25,0,German,Danke!
+26,25,Italian,Grazie!
+27,26,English,You're welcome!
+28,27,Spanish,¡De nada!
+29,27,French,De rien!
+30,0,English,Please!
+31,30,Spanish,¡Por favor!
+32,30,French,S'il vous plaît!
+33,0,German,Bitte!
+34,33,Italian,Per favore!
+35,34,English,Excuse me!
+36,35,French,Excusez-moi!
+37,35,German,Entschuldigung!
+38,0,Italian,Scusa!
+39,38,Spanish,¡Perdón!
+40,39,English,Sorry!

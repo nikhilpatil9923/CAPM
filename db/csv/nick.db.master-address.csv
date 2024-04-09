@@ -1,0 +1,7 @@
+NODE_KEY,CITY,POSTAL_CODE,BUILDING,STREET,Country,VAL_END_DATE,LATITUDE,LONGITUDE
+10001,"Anytown, USA",10001,Acme Corp Headquarters,123 Main Street,United States (USA),31-12-2024,40.7484,-73.9857
+20002,"London, UK",17890,Supplier Co. Building,45 Queen Street,United Kingdom (UK),30-06-2025,51.5098,-0.1287
+30003,"Mumbai, India",400001,-,-,India,30-09-2026,18.92,72.831
+40004,"San Francisco, USA",94104,Tech Co. Innovation Center,25 Mission Street,United States (USA),31-03-2027,37.7749,-122.4194
+50005,"Paris, France",75001,Global Corp. Headquarters,10 Champs-�lys�es,France,31-12-2028,48.8589,2.3522
+60006,"Tokyo, Japan",10001,Global Corp new,10 Champs new,egypt,09-12-2023,56,5.65

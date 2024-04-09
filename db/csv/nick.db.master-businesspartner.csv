@@ -1,0 +1,7 @@
+NODE_KEY,EMAIL_ADDRESS,PHONE_NO,FAX_NUMBER,WEB_ADDRESS,ADDRESS_GUID_NODE_KEY,BP_ID,COMPANY_NAME
+10001,abc@gmail.com,9999345645,4,123 Main Street ffff,20002,04-12-2024,infosys
+20002,sam@gmail.com,9.93456E+11,5,45 Queen Street yy,30003,03-06-2025,lti
+30003,nick@gmail.com,9.93456E+12,-,-,2002,06-09-2026,deloitee
+40004,yash@gmail.com,9.93456E+11,6,25 Mission Street fff,40004,07-03-2027,deloitte usi
+50005,banti@gmail.com,9.93456E+11,7,10 Champs-�lys?es ddd,France,08-12-2028,capgemini
+60006,manwiththedreams@gmail.com,9.93456E+11,33,10 Champs new,500,09-06-2024,Bristol
