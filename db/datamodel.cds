@@ -112,7 +112,7 @@ context transaction {
             PO_ITEM_POS  : Integer;
             PRODUCT_GUID : Association to  master.product; //to do
             // CURRENCY_CODE: String(4);
-            // GROSS_AMOUNT:Decimal;
+            //GROSS_AMOUNT:Decimal;
             // TAX_AMOUNT:Decimal;
 
     }

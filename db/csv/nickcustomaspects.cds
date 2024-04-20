@@ -13,7 +13,7 @@ type gender: String(1) enum { //fixed set of domain values, if something not dec
 };
 //every currency will have currency code, to convert that we use anotation called Semantics.amount.currencyCode
 //type AmountT: Decimal(15,2)@(
-    type AmountT: Decimal(0,0)@(
+    type AmountT: Decimal(10,2)@( //todo changed to 0, 0 to 10,2
     Semantics.amount.currencyCode: 'CURRENCY_CODE',
     sap.unit: 'CURRENCY_CODE'
 );

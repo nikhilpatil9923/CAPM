@@ -2,4 +2,4 @@ nameFirst,nameMiddle,nameLast,nameInitials,sex,Language,phoneNumber,Email,LoginN
 John,,,J,Male,English,+1234567890,john@example.com,johnsmith,RS,5000.00,1234567890,BNK001,Example Bank
 Jane,A,Doe,JAD,Female,Spanish,+9876543210,jane@example.com,janedoe,USD,6000.00,9876543210,BNK002,Another Bank
 Alice,Brown,,AB,Female,French,+1122334455,alice@example.com,alicebrown,RS,7000.00,1122334455,BNK003,Yet Another Bank
-Bob,C,Smith,BCS,Male,German,+5544332211,bob@example.com,bobsmith,EUR,5500.00,5544332211,BNK004,One More Bank
+Bob,C,Smith,BCS,Male,German,+5544332211,bob@example.com,bobsmith,EUR,5500.00,5544332211,BNK004,One More Bank 
